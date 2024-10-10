@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qD0q9z7tESFi9Y+eW2xLQOxpJ5RtbkvwaIjpiROB/2M=",
+  "Source": "WeatherNewsAPI",
+  "BasePath": "_content/WeatherNewsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
